@@ -22,4 +22,4 @@
 
 default['openresty']['pcre']['version']  = '8.39'
 default['openresty']['pcre']['url']      = "ftp://ftp.csx.cam.ac.uk/pub/software/programming/pcre/pcre-#{node['openresty']['pcre']['version']}.tar.bz2"
-default['openresty']['pcre']['checksum'] = 'b9e02d36e23024d6c02a2e5b25204b3a4fa6ade43e0a5f869f254f49535079df'
+default['openresty']['pcre']['checksum'] = 'b858099f82483031ee02092711689e7245586ada49e534a06e678b8ea9549e8b'
